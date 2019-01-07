@@ -1,0 +1,45 @@
+h1 { 
+  color: #111; 
+  font-family: 'Helvetica Neue', sans-serif; 
+  font-size: 36px; 
+  font-weight: bold; 
+  letter-spacing: -1px; 
+  line-height: 1; 
+  text-align: center;
+  padding-top: 20px; }
+
+
+h2 { 
+  color: #111; 
+  font-family: 'Open Sans', sans-serif; 
+  font-size: 30px; 
+  font-weight: 300; 
+  line-height: 32px; 
+  margin: 0 0 72px; 
+  text-align: center; }
+
+
+div { 
+  color: #685206; 
+  font-family: 'Helvetica Neue', sans-serif; 
+  font-size: 14px; 
+  line-height: 14px; 
+  margin: 0 0 0; 
+  text-align: justify; 
+  text-justify: inter-word;
+ }
+
+ div.list {
+  border-top: 1px solid #111;
+  border-left: 1px solid #111;
+  border-right: 1px solid #111;
+  padding: 6px;
+ }
+
+  a { margin-left: 4px;}
+
+  button {
+    margin: 0 4px 0 4px;
+  }
+
+  
