@@ -1,0 +1,10 @@
+{
+  "/getList": {
+    "target": "http://localhost:3000/getList",
+    "secure": false,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/getList": ""
+    }
+  }
+}
